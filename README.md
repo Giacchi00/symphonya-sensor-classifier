@@ -15,7 +15,7 @@ Questo modulo gestisce il **parsing** e la **classificazione agronomica** delle 
 - Classifica ogni parametro secondo soglie agronomiche
 - Produce un report giornaliero leggibile
   
-- ## Moduli
+## Moduli
 
 ### sensor_classifier.py
 Parsing dei dati grezzi dei sensori e classificazione agronomica per soglia (temperatura, umidità aria, luce PAR, umidità suolo). Soglie calibrate per olivicoltura mediterranea.
